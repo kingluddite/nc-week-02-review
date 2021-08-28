@@ -1,0 +1,23 @@
+{
+  "name": "nc-week-02-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingluddite/nc-week-02-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingluddite/nc-week-02-review/issues"
+  },
+  "homepage": "https://github.com/kingluddite/nc-week-02-review#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
